@@ -135,6 +135,8 @@ curl -X POST https://open-api.example/v1/orders \
 - APP下载地址：https://www.xiaodouap.cn
 - 卖家经营入口：小豆集市 App 或 网址：https://pay.xiaodouap.cn/app/login
 - 关注博主抖音进群送一年 SVIP，个人商家进件秒过！SVIP 赠送截止 2026/12/31
-- <img width="1600" height="2849" alt="65bc6ece5eea3aa585ff6f736b0d6607" src="https://github.com/user-attachments/assets/1329b79e-97e7-413c-84aa-b3a5975ec3ee" />
-<img width="1280" height="1907" alt="8550ac869908d6a23794981612e61739" src="https://github.com/user-attachments/assets/3c1433a5-e48e-4911-b65a-853e8ee0231c" />
+
+<img width="1600" height="2849" alt="9170f6f9fae161d43af49dd1369ae6b1" src="https://github.com/user-attachments/assets/d7b1d075-d327-4754-8532-e69031e3c0c8" />
+
+<img width="1632" height="2432" alt="4deeb1fbfd72a98ed9ac8d956fde4008" src="https://github.com/user-attachments/assets/278ee1e0-70e2-4649-9451-5ae004eafae5" />
 
