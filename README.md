@@ -131,7 +131,7 @@ curl -X POST https://open-api.example/v1/orders \
 ## 📮 联系我们
 
 - 商务合作与进件咨询：`luu888@foxmail.com`（替换为实际邮箱）
-- 问题反馈：GitHub Issues
+- 问题反馈：博主抖音群内提交、技术指导、问题反馈
 - APP下载地址：https://www.xiaodouap.cn
 - 卖家经营入口：小豆集市 App 或 网址：https://pay.xiaodouap.cn/app/login
 - 关注博主抖音进群送一年 SVIP，个人商家进件秒过！
